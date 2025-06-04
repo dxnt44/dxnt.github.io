@@ -1,5 +1,2 @@
-*
-*
-* Primera version para pagina web de ciberseguridad
-*
-*
+====================================================
+Prueba de diseño para pagina web de ciberseguridad
